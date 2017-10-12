@@ -3,7 +3,7 @@ layout: post
 title: Care system for communication between staff and family
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Final_Idea.png)
 
 The demand for healthcare is rising with the prediction of there being 0.5million more pensioners than children by 2029, yet they are still relying on paper based systems to record information. The more people that enter the healthcare system results in more information that will need to be stored. Technology has been improving every sector yet it seems that care has been overlooked.
 
