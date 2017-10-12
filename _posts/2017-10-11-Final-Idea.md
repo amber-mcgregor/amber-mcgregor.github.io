@@ -1,6 +1,6 @@
 ---
 layout: post
-Care system for communication between staff and family
+title: Care system for communication between staff and family
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
