@@ -3,7 +3,7 @@ layout: post
 title: Major Project Idea's
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Major_Project_Ideas.png)
 
 Three ideas:
 ----
