@@ -14,13 +14,18 @@ I have a **Fitbit** and when you meet a goal, such as walking a certain amount o
 
 Fitbit has designed [101 badges](https://blog.fitbit.com/fitbit-badges/) that you can work towards achieving. The badges allow you to recognise and help you to celebrate your journey towards health. Along your way you are earning badges to allow you to see how well you are doing and push you to want to achieve more. Rewarding people for their work encourages them and keeps them motivated to do better. 
 
+![image](http://amber-mcgregor.github.io/images/fitbit_badges.png)
 
 >*"When you’re as determined as so many Fitbit users are, it can be easy to get laser focused on your end goal. But while high aspirations are commendable, experts also say having smaller specific, measurable, and attainable goals can help keep you motivated. Another key factor? Rewards."*
 > - Danielle Koseki
 
-Another company that uses badges successfully is [Treehouse]( https://teamtreehouse.com/) . Treehouse is an online learning platform that enables you to learn a range of different technologies. Treehouse believe that by incorporating badged in to a mobile or web application will challenge the users and encourage them to set goals. To achieve a badge you need to complete various different tasks. You are motivated to complete the tasks to achieve the badge, which improves self-motivation. 
+Another company that uses badges successfully is [Treehouse]( https://teamtreehouse.com/) . Treehouse is an online learning platform that enables you to learn a range of different technologies. Treehouse believe that by incorporating badged in to a mobile or web application will challenge the users and encourage them to set goals. To achieve a badge you need to complete various different tasks. You are motivated to complete the tasks to achieve the badge, which improves self-motivation.
+
+![image](http://amber-mcgregor.github.io/images/treehouse_badges.png)
 
 Treehouse believes that providing badges is verification of a job well done. Once you have completed the tasks, passed the quizzes and watched the videos relating to a particular topic you are awarded with your badge. You need to complete various different tasks to get certain badges meaning that people have a goal to work towards as well as rewards of completing tasks along the way. When users have a goal to work towards and build a reputation of gaining badges they will strive to maintain this. People want to improve or maintain their current reputation, therefore will strive to do so. 
+
+![image](http://amber-mcgregor.github.io/images/treehouse_badges_examples.png)
 
 > *”Humans are instinctively competitive, so collecting badges can be motivating and exciting to unlock.”*
 > - Danielle Koseki
