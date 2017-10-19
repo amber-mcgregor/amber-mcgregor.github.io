@@ -9,7 +9,7 @@ title: Digital Credentialing and gamification
 
 I have a **Fitbit** and when you meet a goal, such as walking a certain amount of steps you earn a badge. You get an email to congratulate you and the badge is displayed in your achievements and badges menu. The badges put what you have achieved into perspective and compare it to real life situations that make you feel proud of what you achieved by walking a certain amount of steps, or climbing a certain number of floors. An example of this would be the Italy badge that means you have walked 1,184 kilometers which is equivalent to walking the entire length of Italy.
 
-[logo]: http://amber-mcgregor.github.io/images/italy_badge.PNG
+![image](http://amber-mcgregor.github.io/images/italy_badge.PNG)
 
 
 Fitbit has designed [101 badges](https://blog.fitbit.com/fitbit-badges/) that you can work towards achieving. The badges allow you to recognise and help you to celebrate your journey towards health. Along your way you are earning badges to allow you to see how well you are doing and push you to want to achieve more. Rewarding people for their work encourages them and keeps them motivated to do better. 
