@@ -17,8 +17,8 @@ avatar: https://pbs.twimg.com/profile_images/890681106005098496/U332dFi5_400x400
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: little-elefant
-  email: amber@littleelefant.design
+  dribbble:
+  email:
   facebook:
   flickr:
   github:
