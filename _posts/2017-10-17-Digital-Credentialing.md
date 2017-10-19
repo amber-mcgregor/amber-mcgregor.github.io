@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Credentialing and gamification
+title: Digital Credentialing and Gamification
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/gamification.png)
