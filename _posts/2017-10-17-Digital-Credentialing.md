@@ -25,7 +25,7 @@ Another company that uses badges successfully is [Treehouse]( https://teamtreeho
 
 Treehouse believes that providing badges is verification of a job well done. Once you have completed the tasks, passed the quizzes and watched the videos relating to a particular topic you are awarded with your badge. You need to complete various different tasks to get certain badges meaning that people have a goal to work towards as well as rewards of completing tasks along the way. When users have a goal to work towards and build a reputation of gaining badges they will strive to maintain this. People want to improve or maintain their current reputation, therefore will strive to do so. 
 
-![image](http://amber-mcgregor.github.io/images/treehouse_badges_examples.png)
+![image](http://amber-mcgregor.github.io/images/treehouse_badge_examples.png)
 
 > *”Humans are instinctively competitive, so collecting badges can be motivating and exciting to unlock.”*
 > - Danielle Koseki
