@@ -3,9 +3,7 @@ layout: post
 title: Competitors
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Competitors.png)
-
-![image](http://amber-mcgregor.github.io/images/italy_badge.png)
+![_config.yml]({{ site.baseurl }}/images/competitors.png)
 
 Competitors
 ===
