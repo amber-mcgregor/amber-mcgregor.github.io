@@ -50,7 +50,6 @@ Sekoia has a [news](http://www.sekoia-care.co.uk/news/) section on their website
 
 I cannot get information on Sekoia's pricing.
 
-
 [Caredocs](http://www.caredocs.co.uk/ "Caredocs")
 ---
 
@@ -129,6 +128,7 @@ An additional system for **£95 + VAT per month**
 There is also a single one-off charge of **£100 + VAT** to cover customisation, delivery and installation of all new systems. They also state that Wi-fi connection may be possible in some circumstances but some networked installations require additional chargers.
 
 [MED e-care](http://www.mede-care.co.uk/ "Mede Care")
+---
 
 MED e-care offers a modular suite of solutions to deliver, record and analyse care. You have the option to install a stand-alone solution or the entire system.
 
@@ -187,6 +187,7 @@ You can pay for the system annually in advance or else by Direct Debit paid over
 ) on their website.
 
 [AutumnCare](https://autumn.care/ "Autumn Care")
+---
 
 AutumnCare is an Australian company that was developed after the Executive Chairman noticed there was an issue with getting information on his father as information was not completed. They have two products, [Connect](https://autumn.care/products/connect/) which is a clinical management system and [Medicate Two](https://autumn.care/products/medicate-two/) which is a tool for medication administration.
 
@@ -220,6 +221,7 @@ There is a [blog](https://autumn.care/blog/) with posts about a range of differe
 There is no information on pricing, they mainly want you to contact them to find out information therefore their website has little information.
 
 [Little Vista](https://www.littlevista.ie "Little Vista")
+---
 
 Little Vista is an application used in nursery care to store information on a child that the parents can login and see.
 
@@ -265,8 +267,11 @@ support, training and new product features!
 
 
 [My Nursery Pal](https://www.mynurserypal.com/index.html)
+---
 
 My Nursery Pal is an application that allows staff to enter information that parents can log on and have access to. This is what I am hoping to achieve with my system, although with the healthcare sector as the main focus. There is very little information on their website, and only one screen of the system therefore I am unable to get much information.
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/my_nursery_pal/screen_example.png)
 
 Conclusion
 ---
