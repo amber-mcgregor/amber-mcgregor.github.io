@@ -15,13 +15,21 @@ Competitor’s within the care sector offer a range of different services. I sta
 
 Sekoia is a digital information tool for homes that work on touch screen devices that are installed around the home. They recommend that they be installed in the resident’s rooms. They market that the use of their system results in fewer mistakes, easier logging of observations, which results in greater job satisfaction for the care staff. It offers more than 30 apps within the program that can be customised to suit the specific care homes needs. Their software is marketed for nursing homes, not for care in the community.
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/sekoia/sekoia_webpage.png)
+
 **What Are the Features?**
 
 * **Tasks** - you can tick off tasks are they are completed and send notifications if something, such as medications, are not given on time.
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/sekoia/sekoia_screen.png)
+
 * **Appointments** - Gives staff an overview of appointments and activities for each resident which enables staff to ensure they attend all appointments. There is also the option for residents to access the calendar themselves and register for events that take place within the home
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/sekoia/sekoia_screen_2.png)
+
 * **Recording Incidents** - Enables staff to record incidents such as falls and seizures without having to leave the resident
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/sekoia/sekoia_screen_3.png)
 
 * **Ordering Supplies** - Care staff are able to order products directly from the system to prevent incorrect or duplicate orders and takes away the need for the admin team to take care of them
 
@@ -70,6 +78,8 @@ Designed by owners of care homes
     * Medication - What medication the client is currently on and the history of medication that they have been prescribed. There is also a built in dictionary of the most commonly prescribed medication to try and prevent spelling mistakes
     * Charts - These are generated to monitor all aspects of a resident's health. This includes weight and blood pressure.
     
+    ![image](http://amber-mcgregor.github.io/images/competitor_research_img/care_docs/caredocs_residents_records.png)
+    
 * **Staff Administration** - This allows you to store information on staff to ensure that all training records are kept up to date. It handles the following:
 
     * Personal details - contact details and the system password reset if they forget it
@@ -98,6 +108,7 @@ CareDocs have a [newsletter](http://www.caredocs.co.uk/newsletter.php) that you 
 
 They also have a [Facebook page](https://www.facebook.com/caredocs) with various information and posts about care and their systems. There was images of their marketing stalls as well. On their website there's a list of [shows](http://www.caredocs.co.uk/events.php) that they are attending.
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/care_docs/caredocs_marketing_stall.jpg)
 
 **Pricing Information**
 
@@ -127,10 +138,14 @@ An additional system for **£95 + VAT per month**
 
 There is also a single one-off charge of **£100 + VAT** to cover customisation, delivery and installation of all new systems. They also state that Wi-fi connection may be possible in some circumstances but some networked installations require additional chargers.
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/care_docs/care_control_pricing)
+
 [MED e-care](http://www.mede-care.co.uk/ "Mede Care")
 ---
 
 MED e-care offers a modular suite of solutions to deliver, record and analyse care. You have the option to install a stand-alone solution or the entire system.
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/med-ecare/screen_design.png)
 
 > Our solutions combine to create a seamless, flexible, electronic health record that can be easily adjusted to reflect the needs of your residents, carers, nurses and organisation.
 
@@ -163,6 +178,8 @@ I cannot get any information on pricing.
 
 Care Control Systems was designed by a care home. It's main purpose is to allow you to create electronic care plans and control as well as manage the recording of information that allow you to meet regulators requirements.
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/care_control/care_control_systems.png)
+
 **What Are the Features?**
 
 There are various parts to the system, [Care Control Pocket](https://carecontrolsystems.co.uk/cc-pocket-offline-working/) and [eMAR](https://carecontrolsystems.co.uk/care-control-emar/).
@@ -185,6 +202,8 @@ They have a [video](https://www.youtube.com/watch?v=dkIFFct5YLc#action=share) th
 
 You can pay for the system annually in advance or else by Direct Debit paid over 12months. If you pay it annually you get one month for free, saving 8%. They also offer a 30 day free trial. They have various charts explaining the different [pricing](https://carecontrolsystems.co.uk/pricing/
 ) on their website.
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/care_control/care_control_pricing_2.png)
 
 [AutumnCare](https://autumn.care/ "Autumn Care")
 ---
@@ -235,11 +254,19 @@ Little Vista records the following information:
 * Bathroom Breaks
 * Activities
 
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/login.png)
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/homepage.png)
+
 There is also a learning journal so that parents, families and guardians can see the child’s progress and development. It records:
 
 * Observations
 * Milestones
 * Curriculum Based Activities
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/child_account.png)
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/Information.png)
 
 There's also a manager section available that offers the following:
 
@@ -247,6 +274,10 @@ There's also a manager section available that offers the following:
 * ECCE & other subventions
 * Fee Collections
 * Enrolment for children into sessions and create session plans
+
+One feature that I love about Little Vista is the capability of sending messages. I think that this is a really important feature.
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/messages.png)
 
 
 **How It Works and How It's Set Up**
@@ -266,12 +297,15 @@ fee for everything you need including on-going
 support, training and new product features!
 
 
+
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/little_vista/little_vista_pricing.png)
+
 [My Nursery Pal](https://www.mynurserypal.com/index.html)
 ---
 
 My Nursery Pal is an application that allows staff to enter information that parents can log on and have access to. This is what I am hoping to achieve with my system, although with the healthcare sector as the main focus. There is very little information on their website, and only one screen of the system therefore I am unable to get much information.
 
-![image](http://amber-mcgregor.github.io/images/competitor_research_img/my_nursery_pal/screen_example.png)
+![image](http://amber-mcgregor.github.io/images/competitor_research_img/my_nursery_pal/screen_example.jpg)
 
 Conclusion
 ---
